@@ -43,6 +43,7 @@ If you're planning to submit a live demo with your student solution, one of the 
 - [Andres Ruiz's Solution](https://github.com/Andrsrz/informational-site) - [View in Browser](https://informational-site--andrsrz.repl.co/)
 - [Martin Muehl's Solution](https://github.com/joshuatree/NodeJS) - [View in Browser](https://repl.it/@joshuatree1/NodeJS)
 - [Kevin Beall's Solution](https://github.com/kevinbeall/The-Odin-Project/tree/master/BasicInformationalSite) - [View in Browser](https://LongPossibleProspect--five-nine.repl.co)
+- [Reynard's Solution](https://github.com/ranoot/basic-nodejs-site) - [View in Browser](https://repl.it/@ranoot/basic-nodejs-site)
 - [Julio's solution](https://github.com/julio22b/basic-informational-site) - [View in Browser](https://repl.it/@julio22b/ProudIntentionalTasks)
 - [Thanusha Jakkula's Solution](https://github.com/ThanushaJ/basic-nodejs-website) - [View in Browser](https://repl.it/github/ThanushaJ/basic-nodejs-website)
 - [Braxton Lemmon's Solution](https://github.com/braxtonlemmon/basic-node-site) - [View in Browser](https://repl.it/@braxtonlemmon/basic-node-site-3)
